@@ -1,9 +1,12 @@
-# BadgeScraper
+# RozetAyristirici
+
+Her hangi bir sunucudaki rozetleri ayrıştırmanıza yardımcı olur.
 
 
-Encontre usuários raros em servidores do discord
+#Kurulum
+- token, guild_id, channel_id boşluklarını doldurun.
+- Eğer gerekli ek yazılımlar kurulu değilse terminale bu kodu yazın; ```pip install discum==1.1.0```
+- Script'i çalıştırmak için ```main.py``` dosyasını çalıştırın.
 
-## Como usar
-- Substitua o guild_id, server_id e token pelos valores que você deseja usar
-- Se você nunca usou discum antes, execute este comando no terminal : ```pip install discum==1.1.0```
-- em seguida, execute o script normalmente: ```py main.py```
+Re-created by clarex @ 2023
+All turkish language
