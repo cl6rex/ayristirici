@@ -1,4 +1,4 @@
-# RozetAyristirici
+# Ayristirici
 
 Her hangi bir sunucudaki rozetleri ayrıştırmanıza yardımcı olur.
 
